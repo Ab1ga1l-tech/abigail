@@ -17,3 +17,6 @@ Olá sou um estudante de desenvolvimento de software do Senai.
   | CSS         |Iniciante|
   | JavaScript  |iniciante|
   | Python      | básico  |
+
+
+  
