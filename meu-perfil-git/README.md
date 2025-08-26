@@ -1,6 +1,6 @@
 ## Perfil de abigail
 
-Olá sou um estudante de desenvolvimento de software do Senai.
+Olá sou um  de desenvolvimento de software do Senai.
 
 - **Localização : ** Fortaleza, Ceará
 
